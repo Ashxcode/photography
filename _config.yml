@@ -2,15 +2,12 @@
 baseurl: "https://ashxcode.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Ashley Betances"
-subtitle: "film photography"
+subtitle: "An on going project in film photography"
 author: "Ashley Betances"
-header:
- title: "Photography"
- subtitle: "by Ashley Betances"
+
 footer: Ashley Betances
  name: "Hey there, my name is Ashley"
  bio: "I am a film photographer."
